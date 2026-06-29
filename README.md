@@ -19,7 +19,7 @@ This project evaluates:
 
 This project uses the DementiaBank Pitt Corpus.
 
-Due to data-use restrictions, the dataset is not included in this repository. Users must request access through DementiaBank/TalkBank and place the data locally before running the pipeline.
+Due to data-use restrictions, the dataset is not included in this repository. One must request access through DementiaBank/TalkBank and replace the zip file path before running the pipeline.
 
 ## Methods
 

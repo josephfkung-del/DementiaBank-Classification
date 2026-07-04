@@ -1,4 +1,4 @@
-# Recruiter Summary
+# Project Summary
 
 ## Project
 
@@ -8,7 +8,7 @@ Multimodal Alzheimer's disease detection from speech and transcripts.
 
 Alzheimer's disease affects memory, language, fluency, and speech production. This project explores whether machine learning can detect disease-related patterns from a short picture-description task.
 
-## What I Built
+## What This Project Includes
 
 - Text classification baselines using TF-IDF and logistic regression
 - Transformer-based transcript modeling with RoBERTa-style features

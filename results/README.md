@@ -2,7 +2,7 @@
 
 Put non-sensitive plots, tables, and summary artifacts here.
 
-Good recruiter-facing artifacts:
+Useful artifacts:
 
 - model comparison table
 - confusion matrix image

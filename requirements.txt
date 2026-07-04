@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+notebook
+librosa
+soundfile
+transformers
+torch
+sentence-transformers

@@ -4,7 +4,7 @@ This project explores machine learning approaches for detecting Alzheimer's dise
 
 The work compares text, acoustic, semantic, and multimodal fusion features for session-level classification.
 
-## Recruiter Quick Read
+## Quick Read
 
 - **Problem:** Detect Alzheimer's disease patterns from speech and language data.
 - **Dataset:** DementiaBank Pitt Corpus Cookie Theft task. Data is restricted and is not committed to this repository.
@@ -49,7 +49,7 @@ Late fusion combines model probabilities from text, audio, metadata, and semanti
 README.md                 Project summary and results
 requirements.txt          Python dependencies
 .gitignore                Keeps restricted data and generated artifacts out of Git
-docs/                     Setup notes, recruiter summary, and project details
+docs/                     Setup notes and project details
 notebooks/                Place cleaned experiment notebooks here
 src/                      Place reusable Python modules here
 results/                  Place non-sensitive plots and result summaries here
@@ -74,4 +74,4 @@ This repository intentionally excludes raw DementiaBank files, transcripts, audi
 
 ## Project Status
 
-This repo is organized for portfolio/recruiter review. The next cleanup step is to add a cleaned notebook or Python pipeline under `notebooks/` or `src/` once the final experiment code is ready to share without restricted data.
+This repo is organized as a readable project portfolio. The next cleanup step is to add a cleaned notebook or Python pipeline under `notebooks/` or `src/` once the final experiment code is ready to share without restricted data.

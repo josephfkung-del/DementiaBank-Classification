@@ -48,7 +48,7 @@ Late fusion combines model probabilities from text, audio, metadata, and semanti
 ```text
 README.md                 Project summary and results
 requirements.txt          Python dependencies
-.gitignore                Keeps restricted data and generated artifacts out of Git
+.gitignore                Keeps restricted data and generated artifacts
 docs/                     Setup notes and project details
 notebooks/                Place cleaned experiment notebooks here
 src/                      Place reusable Python modules here
@@ -70,8 +70,8 @@ Then open the cleaned notebook or scripts for the experiment branch you want to 
 
 ## Data Access Note
 
-This repository intentionally excludes raw DementiaBank files, transcripts, audio, derived participant-level CSVs, trained models, and pickled artifacts. Those files may contain restricted or sensitive clinical data and should remain local.
+This repository intentionally excludes raw DementiaBank files which can be requested from the owners with prove of research credentials
 
 ## Project Status
 
-This repo is organized as a readable project portfolio. The next cleanup step is to add a cleaned notebook or Python pipeline under `notebooks/` or `src/` once the final experiment code is ready to share without restricted data.
+This repo is organized as a readable project portfolio.
